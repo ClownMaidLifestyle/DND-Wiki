@@ -1,6 +1,23 @@
-# Welcome to MkDocs
+# Welcome to the Docks and Dragoons Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![world map](images/world_map_1.jpg "world map")
+
+## The Commandments of Truth 
+
+1. If any information contradicts the game itself, the game is the truth and that information is false
+
+2. If any information except the game contradicts the wiki, the wiki is the truth and that information is false
+
+3. If the wiki or game does not directly contradict your headcanon, presume it is the truth until proven false
+
+4. The wiki is set in the time just before session 1, It does not contain any truth about events that happened after session 1 started 
+
+**The game:** Anything that occurs during a session, anything written on a character sheet or any other material used during a session or any information that the DM divulges during a session. 
+
+**The Wiki:** The current live version of this document on Github Pages 
+
+**Headcanon:** Any information inferred from the first two soruces of truth that is not positively confirmed by them. 
+
 
 ## Commands
 
@@ -8,12 +25,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-![world map](images/world_map_1.jpg "world map")
