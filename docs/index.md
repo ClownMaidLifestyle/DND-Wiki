@@ -12,6 +12,8 @@
 
 4. The wiki is set in the time just before session 1, It does not contain any truth about events that happened after session 1 started 
 
+5. No individual person (including the author of The Commandments of Truth) is a source of truth, anybody can contribute to a source of truth equally and without permission
+
 **The game:** Anything that occurs during a session, anything written on a character sheet or any other material used during a session or any information that the DM divulges during a session. 
 
 **The Wiki:** The current live version of this document on Github Pages 
