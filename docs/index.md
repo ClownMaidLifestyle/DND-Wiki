@@ -18,7 +18,7 @@
 
 **The Wiki:** The current live version of this document on Github Pages 
 
-**Headcanon:** Any information inferred from the first two soruces of truth that is not positively confirmed by them. 
+**Headcanon:** Any information inferred from the first two sources of truth that is not positively confirmed by them. 
 
 
 ## Commands
